@@ -1,5 +1,2 @@
-# primeiro_repoPI
-# alterando readme de forma remota
+# Aula CSS e HTML
 
-
-# alterando readme de forma local 
